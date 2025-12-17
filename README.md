@@ -1,5 +1,14 @@
-# Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+  # Browser App
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+  This is a code bundle for Browser App. The original project is available at https://www.figma.com/design/OddvwisTRMP35YTV3csRgj/Browser-App.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+
+
+  Test
+  
